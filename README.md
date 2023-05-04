@@ -4,11 +4,6 @@
 
 <hr>
 
- <div>
-  <a href="https://github.com/Tainara03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tainara03&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-  
   ##
  
   ![Snake animation](https://github.com/Tainara03/Tainara03/blob/output/github-contribution-grid-snake.svg)
