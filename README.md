@@ -6,4 +6,4 @@
 
   ##
  
-  ![Snake animation](https://github.com/Tainara03/Tainara03/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Tainara03/Tainara03/blob/main/dist/github-contribution-grid-snake.svg)
