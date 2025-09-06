@@ -2,7 +2,7 @@
 #### Sou desenvolvedora de software, apaixonada por criar soluções eficientes e escaláveis, transformando ideias em aplicações funcionais, e sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
 <div align="center">
-  <a href = "mailto:tainarasantossilva980@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:tainarasantossilva980@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tainarasantos3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
